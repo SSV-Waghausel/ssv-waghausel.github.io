@@ -2,7 +2,9 @@
 [module.hugoVersion]
 extended = true
 min = "0.73.0"
+
+
 [[menu.main]]
   name = "Impressum"
   url = "/impressum/"
-  weight = 10
+  weight = 60

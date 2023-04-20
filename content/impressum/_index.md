@@ -1,7 +1,10 @@
 ---
 title: "Impressum"
-date: 2023-04-18T16:26:42+02:00
-draft: false
+date: 2021-10-01
+type: page
+menu:
+  main:
+    weight: 60
 ---
 # Impressum
 
