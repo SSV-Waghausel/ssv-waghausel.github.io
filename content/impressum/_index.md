@@ -10,7 +10,7 @@ menu:
 
 ## Angaben gemäß § 5 TMG:
 
- Vereinsname: SSV-Waghäusel
+ Vereinsname: SSV-Waghäusel  
  Vertreten durch den Vorstand
  
  Adresse:  
